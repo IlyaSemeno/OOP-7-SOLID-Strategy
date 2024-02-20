@@ -1,0 +1,9 @@
+Addition result: patterns.behavioral.calculator.Complex@6239d3f8
+Multiplication result: patterns.behavioral.calculator.Complex@42c6cb38
+Division result: patterns.behavioral.calculator.Complex@fe6d6bcf
+Addition result: patterns.behavioral.calculator.Complex@95e6892b
+Multiplication result: patterns.behavioral.calculator.Complex@47c64c0b
+Division result: patterns.behavioral.calculator.Complex@7b9aaee4
+Addition result: 3.0+2.0i
+Multiplication result: 5.0+1.0i
+Division result: -0.5+2.5i
